@@ -9,7 +9,7 @@
       <div class="item" @click="filter('Dead')">
           Dead
       </div>
-      <div class="item" @click="filter('Unknown')">
+      <div class="item" @click="filter('unknown')">
           Unknown
       </div>
   </div>
